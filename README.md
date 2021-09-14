@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+EDITOR="code --wait" rails credentials:edit   
+This is command to open editor with  credentials , Environment Variables !!!!!!
+
+Stock.new_lookup('GOOG') to get google price in console !!!
